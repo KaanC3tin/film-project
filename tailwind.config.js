@@ -18,13 +18,7 @@ module.exports = {
         "rex-peach": "#EFAB9C",
         "rex-grey": "#DDE7F2",
         "rex-white": "#FEFBF6",
-<<<<<<< HEAD
-        "rex-bej": "#E7D8B9",
-        "rex-cuteorange": "#F1C9A9",
-        "rex-orange": "#D8D8D8 ",
-=======
         "rex-orange": "#E38B29",
->>>>>>> 7fa924e97e6853dce51d716f68bc3a4754a01719
         "rex-blood": "#CD5D7D",
         "rex-cuteblood": "#FF004D",
         "rex-darkbrown": "#6C5B7B",
@@ -35,11 +29,8 @@ module.exports = {
         "rex-softsun": "#C08B5C",
         "rex-green": "#1FAB89",
         "rex-text": "#333333",
-<<<<<<< HEAD
-        "rex-gold": "#FFD700",
-        "rex-cutecream": "#FFFDD0 ",
-=======
->>>>>>> 7fa924e97e6853dce51d716f68bc3a4754a01719
+        "rex-bej": "#F5F5DC",
+
         // "rex-softgray": "#AC7D88",
       },
       spacing: {
